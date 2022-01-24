@@ -16,8 +16,8 @@
     text-align: center;
 }
 
-.row .col-6.row, .col-12.row {
-    padding: 20px;
+.col-6 .row, .col-12 .row {
+    padding: 0 20px;
 }
 
 section {
