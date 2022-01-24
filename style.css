@@ -16,10 +16,18 @@
     text-align: center;
 }
 
-.row .col-6.row {
+.row .col-6.row, .col-12.row {
     padding: 20px;
 }
 
 section {
     padding: 10px 0;
+}
+
+.big {
+    height: 100px;
+}
+
+.col-6.small {
+    height: 50px;
 }
